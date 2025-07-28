@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dudyalaGanesh
-- 👀 I’m interested in DevOps and Development
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Live Tracking..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dudyalaganesh186@gmail.com
